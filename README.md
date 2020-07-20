@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href=https://linkedin.com/in/sadn1ck target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="sadn1ck" height="30" width="30" /></a>
+<a href=https://linkedin.com/in/sadn1ck target="blank"><img align="center" src="img/Linkedin.svg" alt="sadn1ck" height="30" width="30" /></a>
 <a href=https://ctftime.org/team/89677 target="blank"><img align="center" src="img/ctftime.png" alt="sadn1ck" height="30" width="30" /></a>
 <a href=https://stackoverflow.com/sadn1ck target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="sadn1ck" height="30" width="30" /></a>
 <a href=https://dev.to/sadn1ck target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="sadn1ck" height="30" width="30" /></a>
@@ -18,7 +18,7 @@
 <h4 align="center">Looking for opportunities to hone my skills in <br>Information Security, DevOps and Web Development</h4>
 <hr>
 
-<p align="center"> <img src=https://komarev.com/ghpvc/?username= alt=sadn1ck/> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=sadn1ck alt=sadn1ck/> </p>
 
 
 - 👨‍🎓 Currently a Sophomore at **Dept. of Information Technology, IIEST, Shibpur**
