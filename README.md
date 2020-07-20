@@ -4,8 +4,6 @@
 <p align="center">
 <a href=https://linkedin.com/in/sadn1ck target="blank"><img align="center" src="https://raw.githubusercontent.com/sadn1ck/sadn1ck/master/img/Linkedin.svg" alt="sadn1ck" height="30" width="30" /></a>
 <a href=https://ctftime.org/team/89677 target="blank"><img align="center" src="https://raw.githubusercontent.com/sadn1ck/sadn1ck/master/img/ctftime.png" alt="sadn1ck" height="30" width="30" /></a>
-<a href=https://stackoverflow.com/sadn1ck target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="sadn1ck" height="30" width="30" /></a>
-<a href=https://dev.to/sadn1ck target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="sadn1ck" height="30" width="30" /></a>
 </p>
 
 #
