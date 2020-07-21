@@ -16,9 +16,6 @@
 <h4 align="center">Looking for opportunities to hone my skills in <br>Information Security, DevOps and Web Development</h4>
 <hr>
 
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=sadn1ck alt=sadn1ck/> </p>
-
-
 - 👨‍🎓 Currently a Sophomore at **Dept. of Information Technology, IIEST, Shibpur**
 - 💻 Prior experience with **NuxtJS, VueJS, JavaScript** and **Python**
 - 👯 Open to collaboration on **any and all Open Source Projects**
