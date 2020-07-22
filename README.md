@@ -35,6 +35,6 @@
 <img src=https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg alt=go width="30" height="30"/>
 </p>
 <p align="center">
-<img src=https://github-readme-stats.vercel.app/api?username=sadn1ck&show_icons=true alt=sadn1ck />
+<img src="https://github-readme-stats.vercel.app/api?username=sadn1ck&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="75%"/>
 </p>
 
