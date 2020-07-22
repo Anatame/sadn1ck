@@ -33,4 +33,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sadn1ck&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="75%"/>
 </p>
 
-### Header thanks to [@sindresorhus](https://github.com/sindresorhus/css-in-readme-like-wat)
+<h4 align="center"> Header thanks to <a href="https://github.com/sindresorhus/css-in-readme-like-wat">@sindresorhus</a> </h4>
