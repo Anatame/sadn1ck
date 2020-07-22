@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sadn1ck/sadn1ck/master/img/header.svg" alt="sadn1ck" width="100%">
+<img src="img/header.svg" alt="sadn1ck" width="100%">
 
 #
 
