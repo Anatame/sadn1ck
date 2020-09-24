@@ -3,10 +3,14 @@
 
 I'm Anik Das, a Frontend Web Dev 👨‍💻 who is passionate about Information Security & DevOps
 
-- 🔭 I’m currently working on getting better at React
-- 🌱 I’m currently learning C++ and Typescript
+
+
+- 🔭 I’m currently working to getting better at React, and Data Structures and Algorithms
+- 🌱 I’m currently learning C++, Security and Networking
 -  ⚡ Languages: JavaScript, Python3, C++
+- ⌨ Frameworks: NuxtJS, VueJS, React
 - 💻 CTFTime: https://ctftime.org/team/89677
+- 📃 [Resume Here](https://portfolio.sadn1ck.vercel.app/Resume_Anik_Das.pdf)
 
 ---
 ⭐️ From [Anik Das](https://github.com/sadn1ck)
