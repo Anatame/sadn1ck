@@ -10,7 +10,6 @@ I'm Anik Das, a Frontend Web Dev 👨‍💻 who is passionate about Information
 -  ⚡ Languages: JavaScript, Python3, C++
 - ⌨ Frameworks: NuxtJS, VueJS, React
 - 💻 CTFTime: https://ctftime.org/team/89677
-- 📃 [Resume Here](https://portfolio.sadn1ck.vercel.app/Resume_Anik_Das.pdf)
-
+- 📃 <a target="_blank" href="https://drive.google.com/file/d/1Nn209JAfJlLGTndb8fWTtzEs_aYA18HJ/view?usp=sharing">PDF version</a> of my resume
 ---
 ⭐️ From [Anik Das](https://github.com/sadn1ck)
