@@ -1,15 +1,31 @@
-# Hi, Anik here 👋
- [![Linkedin Badge](https://img.shields.io/badge/-Anik-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadn1ck/)](https://www.linkedin.com/in/sadn1ck/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-anikdas0811@gmail.com-c14438?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:anikdas0811@gmail.com)](mailto:anikdas0811@gmail.com)
+<h1 align="center">Hi, Anik here 👋</h1>
 
-I'm Anik Das, a Frontend Web Dev 👨‍💻 who is passionate about Information Security & DevOps
+<p align="center">
+<a href="https://www.linkedin.com/in/sadn1ck/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img>
+</a>
 
+<a href="https://drive.google.com/file/d/11RewrnkZ4WVkDOFusuqm-wCPPJjGt044/view?usp=sharing">
+<img src="https://img.shields.io/badge/resume-pdf-%23181717.svg?&style=for-the-badge&logoColor=white">
+</img>
+</a>
 
+<a href="https://www.linkedin.com/in/sadn1ck/">
+<img src=https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></img>
+</a>
+</p>
 
-- 🔭 I’m currently working to getting better at React, and Data Structures and Algorithms
-- 🌱 I’m currently learning C++, Security and Networking
--  ⚡ Languages: JavaScript, Python3, C++
-- ⌨ Frameworks: NuxtJS, VueJS, React
-- 💻 CTFTime: https://ctftime.org/team/89677
-- 📃 <a target="_blank" href="https://drive.google.com/file/d/11RewrnkZ4WVkDOFusuqm-wCPPJjGt044/view?usp=sharing">PDF version</a> of my resume
+Frontend Web Developer 👨‍💻 who is looking to learn more about Information Security & DevOps. Open to remote internship opportunities. Feel free to reach out via LinkedIn or Gmail.
+
+- 📝 Languages: Python3, JavaScript, C++, Golang
+- 💻 Frameworks: NuxtJS, VueJS, React
+- 🔓 CTFTime: https://ctftime.org/team/89677
+
 ---
-⭐️ From [Anik Das](https://github.com/sadn1ck)
+
+
+<p align="center">
+<img src=https://img.shields.io/badge/Arch-asus%20tuf%20fx505dt-%230078D6.svg?&style=for-the-badge&logo=linux&logoColor=white">
+</img>
+
+</p>
