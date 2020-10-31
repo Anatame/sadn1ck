@@ -10,15 +10,15 @@
 </img>
 </a>
 
-<a href="https://www.linkedin.com/in/sadn1ck/">
+<a href="mailto:anikdas0811@gmail.com">
 <img src=https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></img>
 </a>
 </p>
 
-Frontend Web Developer 👨‍💻 who is looking to learn more about Information Security & DevOps. Open to remote internship opportunities. Feel free to reach out via LinkedIn or Gmail.
+**Frontend Web Developer** 👨‍💻 looking to learn more about **Information Security & DevOps.** Open to **remote internship opportunities**. Feel free to reach out via **LinkedIn or Gmail**.
 
-- 📝 Languages: Python3, JavaScript, C++, Golang
-- 💻 Frameworks: NuxtJS, VueJS, React
+- 📝 Languages: **Python3, JavaScript, C++, Golang**
+- 💻 Frameworks: **NuxtJS, VueJS, React**
 - 🔓 CTFTime: https://ctftime.org/team/89677
 
 ---
