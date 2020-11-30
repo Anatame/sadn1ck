@@ -11,18 +11,17 @@
 </a>
 
 <a href="mailto:anikdas0811@gmail.com">
-<img src=https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></img>
+<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></img>
 </a>
 </p>
 
-**Frontend Web Developer** 👨‍💻 looking to learn more about **Information Security & DevOps.** Open to **remote internship opportunities**. Feel free to reach out via **LinkedIn or Gmail**.
+**Aspiring Software Engineer** 👨‍💻 looking to learn more about **Information Security & DevOps.** Open to **internship opportunities**. Feel free to reach out via **LinkedIn or Gmail**.
 
 - 📝 Languages: **Python3, JavaScript, C++, Golang**
 - 💻 Frameworks: **NuxtJS, VueJS, React**
 - 🔓 CTFTime: https://ctftime.org/team/89677
 
 ---
-
 
 <p align="center">
 <img src=https://img.shields.io/badge/Arch-asus%20tuf%20fx505dt-%230078D6.svg?&style=for-the-badge&logo=linux&logoColor=white">
