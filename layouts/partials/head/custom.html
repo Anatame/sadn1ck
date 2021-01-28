@@ -1,0 +1,31 @@
+<style>
+  :root {
+    --article-font-family: "JetBrains Mono", var(--base-font-family) !important;
+  }
+
+  :root {
+    --base-font-family: "Inter", sans-serif !important;
+  }
+</style>
+
+<script>
+  (function () {
+    const customFontArticle = document.createElement("link");
+    customFontArticle.href =
+      "https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,400;0,500;0,700;1,100;1,400;1,500;1,700&display=swap";
+
+    customFontArticle.type = "text/css";
+    customFontArticle.rel = "stylesheet";
+    document.head.appendChild(customFontArticle);
+  })();
+
+  (function () {
+    const customFontBase = document.createElement("link");
+    customFontBase.href =
+      "https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&family=Roboto+Mono:wght@300;400;500;700&display=swap";
+
+    customFontBase.type = "text/css";
+    customFontBase.rel = "stylesheet";
+    document.head.appendChild(customFontBase);
+  })();
+</script>
