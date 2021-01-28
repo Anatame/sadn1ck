@@ -1,6 +1,6 @@
-<h1 align="center">Hi, Anik here 👋</h1>
+<h1 align="left">Hi, Anik here 👋</h1>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/sadn1ck/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
@@ -22,9 +22,3 @@
 - 🔓 CTFTime: https://ctftime.org/team/89677
 
 ---
-
-<p align="center">
-<img src=https://img.shields.io/badge/Arch-asus%20tuf%20fx505dt-%230078D6.svg?&style=for-the-badge&logo=linux&logoColor=white">
-</img>
-
-</p>

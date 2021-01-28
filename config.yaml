@@ -21,6 +21,8 @@ params:
   featuredImageField: image
   rssFullContent: true
   favicon:
+    local: true
+    src: icons/favicon.ico
 
   footer:
     since: 2021
@@ -32,16 +34,16 @@ params:
 
   sidebar:
     emoji: 🍥
-    subtitle: IT UG @ IIESTS
+    subtitle: "IT UG @ IIESTS"
     avatar:
-      local: false
-      src: "https://avatars.githubusercontent.com/u/16396161"
+      local: true
+      src: img/avatar.jpeg
 
   article:
     math: false
     license:
       enabled: true
-      default: Licensed under CC BY-NC-SA 4.0
+      default: MIT
 
   comments:
     enabled: false
@@ -83,7 +85,7 @@ params:
     toggle: true
 
     # Available values: auto, light, dark
-    default: auto
+    default: dark
 
   imageProcessing:
     cover:
@@ -96,25 +98,25 @@ menu:
     - identifier: home
       name: Home
       url: /
-      weight: 1
+      weight: 100
       pre: home
 
     - identifier: portfolio
       name: Portfolio
       url: portfolio
-      weight: 2
+      weight: 200
       pre: user
 
     - identifier: archives
       name: Archives
       url: archives
-      weight: 3
+      weight: 300
       pre: archives
 
     - identifier: search
       name: Search
       url: search
-      weight: 4
+      weight: 400
       pre: search
 
 related:
