@@ -1,24 +1,25 @@
-<h1 align="left">Hi, Anik here 👋</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/sadn1ck/sadn1ck/master/anik.svg" alt="Anik Das" />
+</h1>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sadn1ck/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img>
-</a>
+## Hey! 👋
 
-<a href="https://drive.google.com/file/d/11RewrnkZ4WVkDOFusuqm-wCPPJjGt044/view?usp=sharing">
-<img src="https://img.shields.io/badge/resume-pdf-%23181717.svg?&style=for-the-badge&logoColor=white">
-</img>
-</a>
+I'm Anik, a 20 year old developer from India
 
-<a href="mailto:anikdas0811@gmail.com">
-<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></img>
-</a>
-</p>
+- 👨‍🎓 Student at Department of Information Technology, IIEST Shibpur
+- 🗒 Core team member at [@codeiiest-dev](https://github.com/codeiiest-dev)
+- 🖥 Love exploring new technologies
 
-**Aspiring Software Engineer** 👨‍💻 looking to learn more about **Information Security & DevOps.** Open to **internship opportunities**. Feel free to reach out via **LinkedIn or Gmail**.
+## Skills
 
-- 📝 Languages: **Python3, JavaScript, C++, Golang**
-- 💻 Frameworks: **NuxtJS, VueJS, React**
-- 🔓 CTFTime: https://ctftime.org/team/89677
+- 👨‍💻 TypeScript, JavaScript, Python
+- ⚙️ React, Vue, Nuxt
+- 🗄️ NestJS
+- 💽 Postgres, SQL
+- ☁️ AWS, Linux, Git
 
----
+## Contact
+
+- [Website](https://portfolio.sadn1ck.vercel.app)
+- [Email](mailto:anikdas0811@gmail.com)
+- [LinkedIn](https://linkedin.com/in/sadn1ck)
