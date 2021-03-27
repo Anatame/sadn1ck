@@ -20,6 +20,6 @@ I'm Anik, a 20 year old developer from India
 
 ## Contact
 
-- [Website](https://portfolio.sadn1ck.vercel.app)
+- [Website](https://anik.live)
 - [Email](mailto:anikdas0811@gmail.com)
 - [LinkedIn](https://linkedin.com/in/sadn1ck)
