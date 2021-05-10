@@ -1,25 +1,16 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/sadn1ck/sadn1ck/master/anik.svg" alt="Anik Das" />
-</h1>
+<h2 align="center">Hey, I'm Anik 👋</h2> 
 
-## Hey! 👋
-
-I'm Anik, a 20 year old developer from India
+<img align="right" width="50%" src="https://raw.githubusercontent.com/sadn1ck/sadn1ck/master/gifwebp.webp">
 
 - 👨‍🎓 Student at Department of Information Technology, IIEST Shibpur
-- 🗒 Core team member at [@codeiiest-dev](https://github.com/codeiiest-dev)
-- 🖥 Love exploring new technologies
+- 💻 Web Developer and DevOps, learning about Cybersecurity
+- 🏢 Core team member at [@codeiiest-dev](https://github.com/codeiiest-dev)
+- 🚀 Love exploring new technologies
 
-## Skills
+### Contact & Details
 
-- 👨‍💻 TypeScript, JavaScript, Python
-- ⚙️ React, Vue, Nuxt
-- 🗄️ NestJS
-- 💽 Postgres, SQL
-- ☁️ AWS, Linux, Git
-
-## Contact
-
-- [Website](https://anik.live)
 - [Email](mailto:anikdas0811@gmail.com)
+- [Resume](https://drive.google.com/file/d/11RewrnkZ4WVkDOFusuqm-wCPPJjGt044/view)
 - [LinkedIn](https://linkedin.com/in/sadn1ck)
+- [Website](https://anik.live/)
+- [Discord](https://discord.com) @ sadn1ck#2438
