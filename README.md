@@ -1,6 +1,6 @@
 <h2 align="center">Hey, I'm Anik 👋</h2> 
 
-<img align="right" width="50%" src="https://raw.githubusercontent.com/sadn1ck/sadn1ck/main/gifwebp.webp">
+<img align="right" width="25%" src="https://raw.githubusercontent.com/sadn1ck/sadn1ck/main/gifwebp.webp">
 
 - 👨‍🎓 Student at Department of Information Technology, IIEST Shibpur
 - 💻 Web Developer and DevOps, learning about Cybersecurity
