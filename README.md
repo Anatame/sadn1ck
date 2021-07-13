@@ -13,4 +13,4 @@
 - [Resume](https://drive.google.com/file/d/11RewrnkZ4WVkDOFusuqm-wCPPJjGt044/view)
 - [LinkedIn](https://linkedin.com/in/sadn1ck)
 - [Website](https://anik.live/)
-- [Discord](https://discord.com) @ `sadn1ck.#2438`
+- [Discord](https://discord.com) @ `Anik#2438`
