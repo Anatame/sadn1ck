@@ -14,5 +14,5 @@
 - [Email](mailto:anikdas0811@gmail.com)
 - [Resume](https://anik.live/resume)
 - [LinkedIn](https://linkedin.com/in/sadn1ck)
-- [Website](https://anik.live/)
+- [Website](https://drive.google.com/file/d/11RewrnkZ4WVkDOFusuqm-wCPPJjGt044/view)
 - [Discord](https://discord.com) @ `Anik#2438`
